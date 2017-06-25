@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\nspage1 <- source(\"server/page1.R\")$value\nspage2 <- source(\"server/page2.R\")$value\n\nfunction(input, output, session) {\n\n  ## here we can init global variable and pass them to each page\n\n  spage1(input, output, session)\n  spage2(input, output, session)\n}\n",
+    "created" : 1498365759353.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "166383294",
+    "id" : "FB62DA17",
+    "lastKnownWriteTime" : 1498367560,
+    "last_content_update" : 1498367560341,
+    "path" : "~/projects/r/shinydoc/inst/ui/server.R",
+    "project_path" : "inst/ui/server.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

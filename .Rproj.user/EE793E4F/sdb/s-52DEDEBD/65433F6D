@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\n\nfunction(input, output, session) {\n\n  output$distPlot <- renderPlot({ plot(1) })\n}\n\n",
+    "created" : 1498367447381.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "531995994",
+    "id" : "65433F6D",
+    "lastKnownWriteTime" : 1498367652,
+    "last_content_update" : 1498367652312,
+    "path" : "~/projects/r/shinydoc/inst/ui/server/page1.R",
+    "project_path" : "inst/ui/server/page1.R",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

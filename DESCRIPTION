@@ -1,0 +1,11 @@
+Package: shinymod
+Type: Package
+Title: Create a modular shiny application
+Version: 0.1.0
+Author: Amine Gassem <contact@ag-study.com>
+Maintainer: Amine Gassem <contact@ag-study.com>
+Description: Create a modular shiny application.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: shiny

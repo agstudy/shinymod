@@ -1,0 +1,13 @@
+{
+    "path" : "~/projects/r/shinydoc",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        }
+    ]
+}

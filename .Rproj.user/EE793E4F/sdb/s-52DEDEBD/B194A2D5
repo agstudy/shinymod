@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498365778332.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B194A2D5",
+    "lastKnownWriteTime" : 1498365788,
+    "last_content_update" : 1498365788850,
+    "path" : "~/projects/r/shinydoc/inst/ui/global.R",
+    "project_path" : "inst/ui/global.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

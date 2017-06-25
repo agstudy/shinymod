@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\ntab1 <- source(\"view/page1.R\")$value\ntab2 <- source(\"view/page2.R\")$value\nshinyUI(\n  navbarPage(\"My Application\",\n             tabPanel(\"Component 1\",tab1),\n             tabPanel(\"Component 2\", tab2)\n  )\n)\n\n",
+    "created" : 1498365743344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "121122519",
+    "id" : "A132433F",
+    "lastKnownWriteTime" : 1498367433,
+    "last_content_update" : 1498367433487,
+    "path" : "~/projects/r/shinydoc/inst/ui/ui.R",
+    "project_path" : "inst/ui/ui.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,6 @@
+
+(function(){
+
+     DT::dataTableOutput("tableOutput")
+
+})()
